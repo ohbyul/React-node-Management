@@ -1,3 +1,27 @@
+## Management System 
+
+본 프로젝트는 React + node JS 공부를 목적으로 만들어진 고객 관리 시스템 (Management System) 입니다.
+
+npm i -g create-react-app
+ :  -g 글로벌 패키지
+
+create-react-app management
+ : management 라는 이름의 하나의 프로젝트가 생성 된다.
+
+cd management
+ : management 폴더로 이동
+
+yarn start
+ : 만들어진 리액트 앱을 실행 한다.
+->  나는 이거 안먹힘 -> npm i -g yarn 설치해줘야함
+npm start 
+-> 이게 먹힘
+
+퍼블릭 폴더 -> index.html 
+root에 index.js가 연결되어있음
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
