@@ -1,6 +1,7 @@
 ## Management System 
 ```
-본 프로젝트는 React + node JS 공부를 목적으로 만들어진 고객 관리 시스템 (Management System) 입니다. -동빈나 
+본 프로젝트는 React + node JS 공부를 목적으로 만들어진 고객 관리 시스템 (Management System) 입니다. 
+동빈나  
 
 npm i -g create-react-app
  :  -g 글로벌 패키지
